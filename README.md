@@ -1,6 +1,7 @@
 # Aula_pratica_Ornito_Antropoceno
 
-Arquivos necessários para fazer a aula prática de genômica na disciplina Ornitologia no Antropoceno
+- Arquivos necessários para fazer a aula prática de genômica na disciplina Ornitologia no Antropoceno
+
 Fernanda Bocalini 
 Agosto 2025
 
